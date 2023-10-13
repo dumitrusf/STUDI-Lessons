@@ -103,7 +103,7 @@ En JavaScript, los valores pueden ser todos los valores anteriores, más cualqui
 
 ## JSON vs XML
 
-JSON y XML pueden usarse para recibir datos de un servidor web¹⁶[16]. Los dos presentan especificidades no despreciables para redactar y transportar los datos de la forma más clara posible.
+JSON y XML pueden usarse para recibir datos de un servidor web. Los dos presentan especificidades no despreciables para redactar y transportar los datos de la forma más clara posible.
 
 ### Ejemplo
 
