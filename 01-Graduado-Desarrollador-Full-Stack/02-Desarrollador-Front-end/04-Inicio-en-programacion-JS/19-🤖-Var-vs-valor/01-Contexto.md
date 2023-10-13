@@ -1,0 +1,2 @@
+# Contexto
+Cuando asignamos una variable, ya sea especificando un valor o otra variable, se puede hacer de dos formas: por copia o por referencia. Mientras que en otros lenguajes tenemos la opción de elegir el método a usar, en JavaScript, no es así. Por lo tanto, hay que entender bien cómo funciona bajo el capó, los impactos que puede tener en nuestros desarrollos, y cómo solucionar algunos de los problemas que puede generar.

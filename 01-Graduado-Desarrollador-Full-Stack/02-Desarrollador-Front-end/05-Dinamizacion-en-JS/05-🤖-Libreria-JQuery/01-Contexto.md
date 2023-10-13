@@ -1,0 +1,3 @@
+# Contexto JavaScript
+
+JavaScript ofrece una gran variedad de soluciones para crear interactividad en nuestras páginas web. Algunas personas han decidido facilitarnos la tarea, como John Resig que, a principios de 2006, lanzó la librería JavaScript libre jQuery. Esta librería permite, por ejemplo, recorrer el DOM gracias a su soporte de selectores CSS, pone a nuestra disposición funcionalidades para crear animaciones, y se usa para manipular el CSS de forma más intuitiva o para gestionar los oyentes de eventos. Es todavía hoy una de las librerías más utilizadas desde el punto de vista front-end.

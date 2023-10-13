@@ -1,0 +1,2 @@
+# Contexto
+Cuando desarrollamos, tendremos que ejecutar instrucciones de forma condicional. La condición es uno de los bloques fundamentales de un lenguaje de programación, vamos a ver cómo se materializan las opciones en JavaScript.

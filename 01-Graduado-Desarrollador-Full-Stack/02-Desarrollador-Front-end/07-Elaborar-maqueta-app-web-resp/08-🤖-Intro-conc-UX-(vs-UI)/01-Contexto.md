@@ -1,0 +1,8 @@
+# Contexto
+Desde hace una década, los términos UX Design, UI Design, Ergonomía o Diseño Interactivo son cada vez más presentes en las empresas de IT y sus proyectos digitales. Su significado y el campo de competencias de cada una de estas disciplinas son aún desconocidos o mal asimilados. Sin embargo, los jefes de proyectos y sus clientes han comprendido recientemente que era importante involucrar a profesionales de estas prácticas en sus procesos de diseño si querían mejorar el reconocimiento de su marca, aumentar su volumen de ventas o simplemente captar nuevos usuarios.
+
+A través de este curso, vamos a ver por qué es importante, para un jefe de proyecto, un scrum master, un desarrollador o un tester, dominar algunas nociones de UX Design y cómo esta disciplina puede influir realmente en el éxito de un proyecto.
+
+En primer lugar, vamos a aprender a distinguir la diferencia entre el UX Design y el UI Design, que son dos prácticas distintas, pero complementarias. Luego, veremos que el UX designer, aunque interviene en cada etapa del proceso de creación, está sobre todo presente al inicio del desarrollo, durante la fase de descubrimiento, de definición de la necesidad, pero también después del despliegue.
+
+El UX Design no está regido por un solo y único método de trabajo. Los profesionales del UX tienen a su disposición un conjunto de herramientas que pueden utilizar o no, en función de sus usuarios y de sus restricciones técnicas y presupuestarias. Sin embargo, su objetivo es siempre el mismo: poner al usuario en el centro de las preocupaciones y responder a sus necesidades.

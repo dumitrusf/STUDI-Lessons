@@ -1,0 +1,2 @@
+# Contexto
+Durante el desarrollo de una aplicación, es necesario almacenar valores, para manipularlos, evitar tener que reescribirlos varias veces, o simplemente reutilizarlos más tarde. Para simplificar estos procesos, vamos a utilizar variables.

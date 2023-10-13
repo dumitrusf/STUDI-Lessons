@@ -1,0 +1,2 @@
+# Contexto
+En este curso, vamos a explorar conceptos avanzados sobre el uso de funciones en JavaScript, como las funciones que se llaman a sí mismas (funciones recursivas) y las funciones anónimas que, como su nombre indica, son funciones para las que no vamos a especificar un nombre.

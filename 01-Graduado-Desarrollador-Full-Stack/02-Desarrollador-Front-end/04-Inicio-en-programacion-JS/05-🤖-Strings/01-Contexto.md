@@ -1,0 +1,2 @@
+# Contexto
+En nuestros desarrollos JavaScript, es común tener que realizar diferentes manipulaciones sobre las cadenas de caracteres (concatenación, extracción, modificación, visualización, etc.). Estas diferentes posibilidades van a ser abordadas en este curso.

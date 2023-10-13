@@ -1,0 +1,2 @@
+# Contexto
+Los errores son inseparables del desarrollo. Incluso los mejores desarrolladores los introducen y su resolución forma parte del día a día. Por eso es importante conocer las herramientas y métodos que facilitan la depuración.

@@ -1,0 +1,2 @@
+# Contexto
+Al desarrollar un programa, a menudo es necesario realizar ciertos procesos sobre los diferentes valores manipulados. Vamos a ver cuáles son las operaciones más utilizadas en JavaScript y cómo usarlas, así como los métodos para realizar operaciones más complejas, sobre arrays o objetos.

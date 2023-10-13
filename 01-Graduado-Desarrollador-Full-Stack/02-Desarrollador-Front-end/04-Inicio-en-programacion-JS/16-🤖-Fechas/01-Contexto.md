@@ -1,0 +1,2 @@
+# Contexto
+En el desarrollo, es frecuente tener que manejar fechas, por ejemplo para mostrar las fechas de creación y actualización de una página web a los internautas, para calcular una diferencia entre dos fechas, etc. Sin embargo, el manejo de las fechas puede resultar relativamente complejo (diferentes zonas horarias, idiomas, formatos): por eso vamos a estudiar en este curso cómo manejar las fechas en JavaScript con el objeto **Date**.

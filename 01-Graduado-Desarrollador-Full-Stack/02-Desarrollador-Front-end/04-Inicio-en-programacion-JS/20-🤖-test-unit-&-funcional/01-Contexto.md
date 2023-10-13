@@ -1,0 +1,2 @@
+# Contexto
+La escritura de código conlleva inevitablemente un riesgo de error y de introducción de bugs en la aplicación. Por eso es importante probar el código, tanto en el fondo (desde un punto de vista técnico) como en la forma (desde un punto de vista funcional). A medida que el código de la aplicación crezca, será imposible probar manualmente todos estos aspectos. Afortunadamente, existen soluciones para escribir diferentes tipos de pruebas y automatizar su ejecución.

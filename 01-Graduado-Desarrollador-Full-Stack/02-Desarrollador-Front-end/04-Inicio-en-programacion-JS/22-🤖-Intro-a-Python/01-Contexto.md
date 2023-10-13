@@ -1,0 +1,2 @@
+# Contexto
+En el mundo del desarrollo informático, existen muchos lenguajes, cada uno con sus ventajas e inconvenientes. En el Web en particular, se pueden encontrar lenguajes como JavaScript en el lado del cliente y otros como PHP, Java o .NET para la parte del servidor. Entre estos lenguajes, se encuentra Python. Este también permite realizar desarrollo web en el lado del servidor. Además, se usa a menudo para scripts de administración, tareas de mantenimiento o despliegue, cálculo matemático, etc.

@@ -1,0 +1,2 @@
+# Contexto
+Durante nuestro desarrollo, usamos variables que contenían textos, números o incluso matrices para el manejo de listas. Sin embargo, para necesidades más avanzadas, estos tipos no son suficientes. Por ejemplo, en lugar de almacenar el nombre del usuario en una variable, su edad en otra, etc. o de almacenarlos en una matriz que no nos permitirá saber a qué corresponde un valor, vamos a crear una variable que contenga un objeto con toda la información de un usuario.

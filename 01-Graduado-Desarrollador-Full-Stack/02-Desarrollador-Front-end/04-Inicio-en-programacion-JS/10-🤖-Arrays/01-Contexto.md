@@ -1,0 +1,2 @@
+# Contexto
+Ahora que conoces algunos conceptos básicos de JavaScript, te enfrentarás a problemas relacionados con el uso de listas y colecciones de valores (por ejemplo: gestionar una lista de productos, personas...). El uso de arreglos será indispensable para responder a estas necesidades de la manera más eficiente.

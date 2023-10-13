@@ -1,0 +1,2 @@
+# Contexto
+Dominas los fundamentos de la creación y el uso de las tablas JavaScript a través del objeto Array. Ahora vamos a ver con más detalle las propiedades y métodos de los que dispone. Esto te permitirá, durante tus desarrollos, elegir el método que mejor se adapte a tu necesidad.

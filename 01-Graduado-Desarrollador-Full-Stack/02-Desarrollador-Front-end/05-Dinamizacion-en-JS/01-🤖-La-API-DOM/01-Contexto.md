@@ -1,0 +1,2 @@
+# Contexto
+Una Interfaz de Programación de Aplicaciones, llamada API, es una herramienta que agrupa un conjunto de clases, propiedades y métodos. Su objetivo es facilitar el desarrollo de aplicaciones al permitir a los desarrolladores no reinventar la rueda. En el marco del desarrollo de aplicaciones o sitios web, la API DOM permite hacer el enlace entre un documento web (HTML, CSS) y los scripts (JavaScript) que manipularán y modificarán el contenido del documento. El DOM aporta al JavaScript la noción de página web, sin la cual no tendría ningún interés.

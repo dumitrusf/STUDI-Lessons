@@ -1,0 +1,5 @@
+# Contexto
+JavaScript es un lenguaje de programación versátil comúnmente utilizado para crear aplicaciones interactivas en la Web. En combinación con el lenguaje de marcado HTML y las hojas de estilo CSS, permite hacer que las páginas web sean dinámicas e interactivas. Una biblioteca JavaScript poderosa y popular para la manipulación y visualización de datos en la Web es D3.js.
+
+## D3.js (Documentos Impulsados por Datos)
+D3.js es una biblioteca JavaScript que ofrece una amplia gama de características para la creación de visualizaciones de datos interactivos. Permite vincular datos cargados de diferentes fuentes, como archivos CSV, JSON o incluso APIs en línea, y vincularlos a elementos HTML existentes manipulados dinámicamente utilizando los principios del DOM. El uso de esta biblioteca se centra en la creación de gráficos, diagramas, mapas y otras visualizaciones de datos.

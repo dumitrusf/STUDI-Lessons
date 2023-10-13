@@ -1,0 +1,2 @@
+# Contexto
+Existen miles de lenguajes que proporcionan diferentes herramientas al desarrollador para escribir y estructurar su código. Es posible categorizar los lenguajes según su enfoque de la programación: esto es lo que se llama paradigmas. En este curso, vamos a definir qué es un paradigma y ver los principales paradigmas existentes.

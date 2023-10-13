@@ -1,0 +1,2 @@
+# Contexto
+El ecosistema JavaScript es extremadamente vasto. No es posible conocer de memoria la totalidad de las herramientas y los conceptos útiles para el desarrollo de una aplicación web moderna. Por lo tanto, un desarrollador debe saber dónde y cómo buscar eficazmente la información que le permita resolver los problemas que se le plantean.

@@ -1,0 +1,2 @@
+# Contexto
+Sin JavaScript, nuestros formularios HTML se envían y procesan tal cual por el servidor. Con JavaScript, podremos acceder a estos elementos para leer o escribir un valor, asociar un manejador de eventos y así modificar el comportamiento de nuestra página web. Esto antes del envío eventual de nuestros datos al servidor. En este curso, aprenderemos a manipular los diferentes tipos de campos de un formulario HTML, a validar los datos durante la introducción y a proponer sugerencias al usuario en función de su entrada.

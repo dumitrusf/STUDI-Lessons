@@ -1,0 +1,2 @@
+# Contexto
+En la presentación de jQuery, vimos cómo incluirlo en nuestros proyectos web, así como su funcionamiento básico. Vamos a entrar en el detalle y ver técnicamente cómo interactuar con los elementos del DOM existentes, cómo añadir o eliminar nuevos elementos, luego veremos la programación de eventos con el uso de los eventos básicos de JavaScript, la delegación de eventos, así como la creación de animaciones.

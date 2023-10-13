@@ -1,0 +1,2 @@
+# Contexto
+La creación del lenguaje de programación JavaScript fue motivada por el deseo de hacer las páginas web más interactivas (por ejemplo: mostrar/ocultar un bloque de texto, reaccionar a las acciones realizadas por el usuario, hacer cálculos...). Se ha convertido en un elemento imprescindible a la hora de desarrollar un sitio o una aplicación web. El objetivo de este curso es aprender qué es JavaScript, conocer las buenas prácticas y configurar un entorno de trabajo que permita crear un primer código JavaScript sencillo.
