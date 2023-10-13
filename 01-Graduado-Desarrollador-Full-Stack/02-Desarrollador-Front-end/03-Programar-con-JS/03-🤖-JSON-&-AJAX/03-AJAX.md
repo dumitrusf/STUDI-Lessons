@@ -145,6 +145,8 @@ Las versiones de Internet Explorer anteriores a IE 10 no soportan el objeto XMLH
 
 En este vídeo, vamos a ver cómo obtener una respuesta del servidor a través de diferentes ejemplos.
 
+[ver video respuesta del servidor y archivo XML](https://ressources.studi.fr/contenus/opale/262a1758b0b0fd8515ec00b0f61db853d87c1499/co/ajax-1.html)
+
 ## El archivo XML
 
 AJAX puede ser usado de forma interactiva con los archivos XML. Es lo que vamos a ver en este vídeo.
