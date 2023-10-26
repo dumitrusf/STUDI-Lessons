@@ -20,7 +20,7 @@ El backlog refinement permite al equipo mantener un product backlog de calidad y
 
 Retomemos nuestro ejemplo. El día D, el product owner decide hacer un repaso del product backlog.
 
-![Video Herramientas product backlog](https://ressources.studi.fr/contenus/opale/80b28b4df986ee47d248c4eaf6c092fd9fd2cecc/co/metadonnees-pratique.html)
+[Video Herramientas product backlog](https://ressources.studi.fr/contenus/opale/80b28b4df986ee47d248c4eaf6c092fd9fd2cecc/co/metadonnees-pratique.html)
 
 ## Product backlog
 
