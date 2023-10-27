@@ -70,7 +70,7 @@ Dependiendo de la etiqueta en la que se coloque el contenido, éste será visibl
 **No es un lenguaje dinámico.**
 
 ```
-De hecho, a diferencia de PHP o JavaScript que nos permiten utilizar bucles o condiciones, el HTML simplemente permite mostrar contenido como imágenes, texto, enlaces, etc., mediante etiquetas específicas⁵[5].
+De hecho, a diferencia de PHP o JavaScript que nos permiten utilizar bucles o condiciones, el HTML simplemente permite mostrar contenido como imágenes, texto, enlaces, etc., mediante etiquetas específicas.
 ```
 
 <br>
